@@ -3,3 +3,6 @@ E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\Le
 E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\bin\Debug\LemonWayConsumer.pdb
 E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\obj\Debug\LemonWayConsumer.exe
 E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\obj\Debug\LemonWayConsumer.pdb
+E:\Developpements\LemonWay-Git\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\bin\Debug\LemonWayConsumer.exe.config
+E:\Developpements\LemonWay-Git\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\obj\Debug\LemonWayConsumer.exe
+E:\Developpements\LemonWay-Git\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\obj\Debug\LemonWayConsumer.pdb
