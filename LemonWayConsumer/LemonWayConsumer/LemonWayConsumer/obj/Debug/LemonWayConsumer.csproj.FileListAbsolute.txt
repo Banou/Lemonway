@@ -1,0 +1,5 @@
+E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\bin\Debug\LemonWayConsumer.exe.config
+E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\bin\Debug\LemonWayConsumer.exe
+E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\bin\Debug\LemonWayConsumer.pdb
+E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\obj\Debug\LemonWayConsumer.exe
+E:\Developpements\LemonWay-20160904T100117Z\LemonWayConsumer\LemonWayConsumer\LemonWayConsumer\obj\Debug\LemonWayConsumer.pdb

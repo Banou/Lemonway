@@ -1,0 +1,14 @@
+2016-09-04 15:49:10,542 ERROR - Message : La balise de début 'STATUS' sur la ligne 1 à la position 27 ne correspond pas à la balise de fin de 'STATUhthS'. Ligne 1, position 40.
+2016-09-04 15:49:10,544 ERROR - -------------------------------
+2016-09-04 15:49:10,546 ERROR - StackTrace :    à System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   à System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   à System.Xml.XmlTextReaderImpl.ThrowTagMismatch(NodeData startTag)
+   à System.Xml.XmlTextReaderImpl.ParseEndElement()
+   à System.Xml.XmlTextReaderImpl.ParseElementContent()
+   à System.Xml.XmlTextReaderImpl.Read()
+   à System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   à System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   à System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   à System.Xml.XmlDocument.Load(XmlReader reader)
+   à System.Xml.XmlDocument.LoadXml(String xml)
+   à LemonWay.Controllers.ConvertController.XmlToJson(String xml) dans e:\Developpements\LemonWay-20160904T100117Z\LemonWay\LemonWay\Controllers\ConvertController.cs:ligne 26

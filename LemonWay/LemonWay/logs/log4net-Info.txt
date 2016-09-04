@@ -1,0 +1,9 @@
+2016-09-04 15:48:44,343 [12] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 15:48:44 - Transformation du xml : <TRANS><HPAY><ID>103</ID><STATUS>3</STATUS><EXTRA><IS3DS>0</IS3DS><AUTH>031183</AUTH></EXTRA><INT_MSG/><MLABEL>501767XXXXXX6700</MLABEL><MTOKEN>project01</MTOKEN></HPAY></TRANS>
+2016-09-04 15:49:09,037 [13] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 15:49:09 - Transformation du xml : <TRANS><HPAY><ID>103</ID><STATUS>3hth</STATUhthS><EXTRA><IS3DS>0</IS3DS><AUTH>031183</AUTH></EXTRA><INT_MSG/><MLABEL>501767XXXXXX6700</MLABEL><MTOKEN>project01</MTOKEN></HPAY></TRANS>
+2016-09-04 15:50:51,952 [7] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 15:50:51 - Fibonacci : 60
+2016-09-04 15:51:54,227 [7] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 15:51:54 - Fibonacci : 60 - Resultat : 1548008755920
+2016-09-04 15:51:56,084 [7] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 15:51:56 - Fibonacci : 60 - Resultat : 1548008755920
+2016-09-04 16:01:34,281 [12] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 16:01:34 - Fibonacci : 60 - Resultat : 1548008755920
+2016-09-04 16:01:45,631 [8] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 16:01:45 - Fibonacci : 60 - Resultat : 1548008755920
+2016-09-04 16:02:00,743 [9] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 16:02:00 - Fibonacci : 40 - Resultat : 102334155
+2016-09-04 16:04:12,482 [6] INFO  RequestLog LemonWay.Controllers.BaseController (null) - 04/09/2016 16:04:12 - Fibonacci : 10 - Resultat : 55
